@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 projet Bitcoin
 =======
 # VWAP-Bitcoin-Analysis_SDA
